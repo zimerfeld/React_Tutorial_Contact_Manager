@@ -1,3 +1,12 @@
 {
-  "contacts":[]
+  "contacts":[{
+    "id": "447133a1-0e68-4f7e-9a2b-af40b3153ee3",
+    "name": "Renato Zimerfeld",
+    "email": "renato.zimerfeld@radixeng.com.br"
+  },
+  {
+    "id": "9a7e0973-b8f5-4b41-b068-b55c83212b74",
+    "name": "Davi Zimerfeld",
+    "email": "davizimerfeld@hotmail.com"
+  }]
 }
